@@ -30,4 +30,4 @@
 * 一般的接口请求直接继承 Request(ootb)，便于统一管理，对于构造方法的参数context，尽量传Activity;
 * 实体类都继承 BaseEntity(ootb)或BaseEntity的子类;
 * 日志可以使用DLogUtils(ootb) 或 xUtils的LogUtils;
-* 图片加载尽量用glide，xUtils的image.load有缓存BUG...# SuperShopowner_android
+* 图片加载尽量用glide，xUtils的image.load有缓存BUG...
